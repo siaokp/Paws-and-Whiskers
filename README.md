@@ -1,7 +1,9 @@
 # Paws and Whiskers — Data & Cloud Proposal (Workbook Task)
 
 ## Overview
+![Paws and Whiskers Project](images/paws-and-whiskers.png)
 
+![Data Model Overview](images/model-overview.png)
 This repository contains a written proposal produced as part of a structured **bootcamp workbook task**.  
 The task focused on assessing understanding of **data management, cloud concepts, security, governance, and professional communication**, rather than coding or technical implementation.
 
